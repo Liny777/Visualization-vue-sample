@@ -24,4 +24,4 @@ npm run install
 知识图谱总览组件位置：src/views/YouGuang2/components/overview,里面有五个文件，分别是Mainpage.vue，为知识图谱总览的主界面（父组件），包括实体和关系的搜索。实体分为两个子组件实现，一个是NodeChartComponent，用于绘制实体图形，位于页面右边，另一个是SearchNodeComponent，为实体的树形目录结构，位于页面左边。关系与实体相同，分为两个子组件实现，一个是RelationChartComponent,用于绘制关系图形，位于页面右边，另一个是SearchRelationComponent, 为关系的树形目录结构，位于页面左边。
 
 # Video
-https://v.youku.com/v_show/id_XNTE2OTU2ODQ4MA==.html?spm=a2hcb.playlsit.page.7
+https://v.youku.com/v_show/id_XNTE2OTU2ODQ4MA==.html?spm=a2hcb.profile.app.5~5!2~5~5!3~5!2~5~5!4~A
